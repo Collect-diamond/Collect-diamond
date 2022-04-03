@@ -1,5 +1,5 @@
 This file for phototype-test only.
-Do not interupt.
+Do not interrupt.
 - 👋 Hi, I’m @Collect-diamond
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
