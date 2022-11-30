@@ -19,9 +19,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collect-diamond&theme=light&langs_count=6&layout=compact" />
 </div>
 
-
-
-### 🏆 Github Profile Trophy
+## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=Collect-diamond&column=8"/>
 
 
