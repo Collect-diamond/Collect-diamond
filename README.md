@@ -1,9 +1,9 @@
 <h1 align="center">
   A normal Hilda fan 😇
 </h1>
--->
-- [My Homepage](https://collect-diamond.top)
--->
+<h1>
+-[My Homepage](https://collect-diamond.top)
+</h1>
 ### This page is for test purpose only
 
 [![github-contribution-grid-snake.gif](https://i.postimg.cc/FK2FF0h4/github-contribution-grid-snake.gif)](https://postimg.cc/XZk6QGZH)
