@@ -4,6 +4,9 @@
 
 ### This page is for test purpose only
 
+
+- [Collect_diamond's Page](https://collect-diamond.top)
+
 [![github-contribution-grid-snake.gif](https://i.postimg.cc/FK2FF0h4/github-contribution-grid-snake.gif)](https://postimg.cc/XZk6QGZH)
 - 👋 Hi, I’m @Collect-diamond
 - 🌱 I’m currently learning python
