@@ -4,9 +4,7 @@
 
 ### This page is for test purpose only
 
-<h1>
-  
-</h1>
+
 - [Collect_diamond's Page](https://collect-diamond.top)
 
 [![github-contribution-grid-snake.gif](https://i.postimg.cc/FK2FF0h4/github-contribution-grid-snake.gif)](https://postimg.cc/XZk6QGZH)
