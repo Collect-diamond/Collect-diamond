@@ -7,11 +7,11 @@
 > the projects I'm working on
 
 <!-- ![My stats](https://github-readme-stats.vercel.app/api?username=Collect-diamond&theme=light&show_icons=true) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Collect-diamond&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=light&langs_count=6) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Collect-diamond&theme=light&langs_count=6) -->
 
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Collect-diamond&theme=light&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collect-diamond&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=light&langs_count=6&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collect-diamond&theme=light&langs_count=6&layout=compact" />
 </div>
 
 
