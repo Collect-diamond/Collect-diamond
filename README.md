@@ -8,6 +8,7 @@
 - [Collect_diamond's Page](https://collect-diamond.top)
 
 [![github-contribution-grid-snake.gif](https://i.postimg.cc/FK2FF0h4/github-contribution-grid-snake.gif)](https://postimg.cc/XZk6QGZH)
+![](https://raw.githubusercontent.com/Collect-diamond/Collect-diamond/main/assets/github-contribution-grid-snake.svg)
 - 👋 Hi, I’m @Collect-diamond
 - 🌱 I’m currently learning python
 - 📫 [Collect_diamond's email](mailto:collect_diamond@outlook.com)
