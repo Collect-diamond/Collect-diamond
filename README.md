@@ -2,9 +2,10 @@
   A normal Hilda fan 😇
 </h1>
 -->
-
+ - [My Homepage](https://collect-diamond.top)
 ### This page is for test purpose only
-### Do not interrupt.
+
+[![github-contribution-grid-snake.gif](https://i.postimg.cc/FK2FF0h4/github-contribution-grid-snake.gif)](https://postimg.cc/XZk6QGZH)
 - 👋 Hi, I’m @Collect-diamond
 - 🌱 I’m currently learning python
 - 📫 [Collect_diamond's email](mailto:collect_diamond@outlook.com)
@@ -23,7 +24,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Collect-diamond&column=8"/>
 
 
-[![github-contribution-grid-snake.gif](https://i.postimg.cc/FK2FF0h4/github-contribution-grid-snake.gif)](https://postimg.cc/XZk6QGZH)
+
 <!---
 Collect-diamond/Collect-diamond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
