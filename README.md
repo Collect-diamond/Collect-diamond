@@ -1,4 +1,4 @@
-### This file for phototype-test only.
+### This page is for test purpose only
 ### Do not interrupt.
 - 👋 Hi, I’m @Collect-diamond
 - 🌱 I’m currently learning python
