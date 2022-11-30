@@ -7,7 +7,7 @@
 
 - [Collect_diamond's Page](https://collect-diamond.top)
 
-[![github-contribution-grid-snake.gif](https://i.postimg.cc/FK2FF0h4/github-contribution-grid-snake.gif)](https://postimg.cc/XZk6QGZH)
+
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/Collect-diamond/Collect-diamond/assets/github-contribution-grid-snake.svg" /></div>
 - 👋 Hi, I’m @Collect-diamond
 - 🌱 I’m currently learning python
