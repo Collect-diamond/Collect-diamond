@@ -18,8 +18,10 @@
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Collect-diamond&theme=light&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collect-diamond&theme=light&langs_count=6&layout=compact" />
 </div>
+
+<br>
 ## 🏆 Github Profile Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=younger-1&column=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Collect-diamond&column=8"/>
 
 
 [![github-contribution-grid-snake.gif](https://i.postimg.cc/FK2FF0h4/github-contribution-grid-snake.gif)](https://postimg.cc/XZk6QGZH)
