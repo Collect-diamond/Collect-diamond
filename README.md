@@ -23,8 +23,8 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Collect-diamond&theme=light&langs_count=6) -->
 
 <div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Collect-diamond&theme=light&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collect-diamond&theme=light&langs_count=6&layout=compact" />
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Collect-diamond&theme=transparent&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collect-diamond&theme=transparent&langs_count=6&layout=compact" />
 </div>
 
 ## 🏆 Github Profile Trophy
